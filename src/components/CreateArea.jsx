@@ -25,7 +25,7 @@ function CreateArea(props) {
                 content: ""
             });
         }else{
-            alert("add something!");
+            alert("add something in the note!");
         }    
         event.preventDefault();
     }
